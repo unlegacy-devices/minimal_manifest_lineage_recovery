@@ -63,154 +63,15 @@
   <project path="external/toybox" name="LineageOS/android_external_toybox" groups="pdk" />
   <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" />
   <project path="external/uicommon" name="LineageOS/android_external_cyanogen_UICommon" />
-  <project path="external/unrar" name="LineageOS/android_external_unrar" />
   <project path="external/unzip" name="LineageOS/android_external_unzip" />
   <project path="external/v8" name="LineageOS/android_external_v8" groups="pdk" remote="github" />
-  <project path="external/vim" name="LineageOS/android_external_vim" />
   <project path="external/vogar" name="LineageOS/android_external_vogar" groups="pdk" />
-  <project path="external/wpa_supplicant_8" name="LineageOS/android_external_wpa_supplicant_8" groups="pdk" />
-  <project path="external/yaffs2" name="LineageOS/android_external_yaffs2" groups="pdk" />
   <project path="external/zip" name="LineageOS/android_external_zip" />
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" />
-  <project path="frameworks/av" name="LineageOS/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="LineageOS/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/compile/libbcc" name="LineageOS/android_frameworks_compile_libbcc" groups="pdk" />
-  <project path="frameworks/compile/mclinker" name="LineageOS/android_frameworks_compile_mclinker" groups="pdk" />
-  <project path="frameworks/compile/slang" name="LineageOS/android_frameworks_compile_slang" groups="pdk" />
-  <project path="frameworks/ex" name="LineageOS/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/minikin" name="LineageOS/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/ml" name="LineageOS/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/multidex" name="LineageOS/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="LineageOS/android_frameworks_native" groups="pdk" />
-  <project path="frameworks/opt/bitmap" name="LineageOS/android_frameworks_opt_bitmap" groups="pdk-fs" />
-  <project path="frameworks/opt/bluetooth" name="LineageOS/android_frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/calendar" name="LineageOS/android_frameworks_opt_calendar" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/chips" name="LineageOS/android_frameworks_opt_chips" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/colorpicker" name="LineageOS/android_frameworks_opt_colorpicker" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/datetimepicker" name="LineageOS/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/emoji" name="LineageOS/android_frameworks_opt_emoji" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/hardware" name="LineageOS/android_frameworks_opt_hardware" />
-  <project path="frameworks/opt/inputmethodcommon" name="LineageOS/android_frameworks_opt_inputmethodcommon" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/net/ethernet" name="LineageOS/android_frameworks_opt_net_ethernet" groups="pdk-fs" />
-  <project path="frameworks/opt/net/ims" name="LineageOS/android_frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/net/voip" name="LineageOS/android_frameworks_opt_net_voip" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/net/wifi" name="LineageOS/android_frameworks_opt_net_wifi" groups="pdk" />
-  <project path="frameworks/opt/photoviewer" name="LineageOS/android_frameworks_opt_photoviewer" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/setupwizard" name="LineageOS/android_frameworks_opt_setupwizard" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/telephony" name="LineageOS/android_frameworks_opt_telephony" groups="pdk" />
-  <project path="frameworks/opt/timezonepicker" name="LineageOS/android_frameworks_opt_timezonepicker" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/vcard" name="LineageOS/android_frameworks_opt_vcard" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/rs" name="LineageOS/android_frameworks_rs" groups="pdk" />
-  <project path="frameworks/support" name="LineageOS/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/volley" name="LineageOS/android_frameworks_volley" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/webview" name="LineageOS/android_frameworks_webview" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/wilhelm" name="LineageOS/android_frameworks_wilhelm" groups="pdk-cw-fs,pdk-fs" />
-  <project path="hardware/akm" name="LineageOS/android_hardware_akm" />
-  <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" />
-  <project path="hardware/broadcom/wlan" name="LineageOS/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
-  <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" />
-  <project path="hardware/intel/common/libmix" name="LineageOS/android_hardware_intel_common_libmix" groups="intel" />
-  <project path="hardware/intel/common/libva" name="LineageOS/android_hardware_intel_common_libva" groups="intel" />
-  <project path="hardware/intel/common/libwsbm" name="LineageOS/android_hardware_intel_common_libwsbm" groups="intel" />
-  <project path="hardware/intel/common/omx-components" name="LineageOS/android_hardware_intel_common_omx-components" groups="intel" />
-  <project path="hardware/intel/img/hwcomposer" name="LineageOS/android_hardware_intel_img_hwcomposer" groups="intel" />
-  <project path="hardware/intel/img/psb_headers" name="LineageOS/android_hardware_intel_img_psb_headers" groups="intel" />
-  <project path="hardware/intel/img/psb_video" name="LineageOS/android_hardware_intel_img_psb_video" groups="intel" />
-  <project path="hardware/invensense" name="LineageOS/android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" groups="pdk" />
-  <include name="snippets/hal_cm_all.xml" />
-  <project path="hardware/samsung_slsi/exynos5" name="LineageOS/android_hardware_samsung_slsi_exynos5" />
-  <project path="hardware/ti/omap4" name="LineageOS/android_hardware_ti_omap4" />
-  <project path="hardware/ti/omap4xxx" name="LineageOS/android_hardware_ti_omap4xxx" groups="omap4" />
-  <project path="hardware/ti/wlan" name="LineageOS/android_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" name="LineageOS/android_hardware_ti_wpan" />
   <project path="libcore" name="LineageOS/android_libcore" groups="pdk" />
   <project path="libnativehelper" name="LineageOS/android_libnativehelper" groups="pdk" />
-  <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
-  <project path="packages/apps/BasicSmsReceiver" name="LineageOS/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/Bluetooth" name="LineageOS/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/BluetoothExt" name="LineageOS/android_packages_apps_BluetoothExt" />
-  <project path="packages/apps/Browser" name="LineageOS/android_packages_apps_Browser" groups="pdk-fs" />
-  <project path="packages/apps/Calendar" name="LineageOS/android_packages_apps_Calendar" groups="pdk-fs" />
-  <project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" />
-  <project path="packages/apps/CarrierConfig" name="LineageOS/android_packages_apps_CarrierConfig" groups="pdk-fs" />
-  <project path="packages/apps/CellBroadcastReceiver" name="LineageOS/android_packages_apps_CellBroadcastReceiver" groups="pdk-fs" />
-  <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/CMBugReport" name="LineageOS/android_packages_apps_CMBugreport" />
-  <project path="packages/apps/CMFileManager" name="LineageOS/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMUpdater" name="LineageOS/android_packages_apps_CMUpdater" />
-  <project path="packages/apps/CMWallpapers" name="LineageOS/android_packages_apps_CMWallpapers" />
-  <project path="packages/apps/Contacts" name="LineageOS/android_packages_apps_Contacts" groups="pdk-fs" />
-  <project path="packages/apps/ContactsCommon" name="LineageOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
-  <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" groups="pdk-fs" />
-  <project path="packages/apps/Dialer" name="LineageOS/android_packages_apps_Dialer" groups="pdk-fs" />
-  <project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" />
-  <project path="packages/apps/Email" name="LineageOS/android_packages_apps_Email" groups="pdk-fs" />
-  <project path="packages/apps/ExactCalculator" name="LineageOS/android_packages_apps_ExactCalculator" groups="pdk-fs" />
-  <project path="packages/apps/Exchange" name="LineageOS/android_packages_apps_Exchange" groups="pdk-fs" />
-  <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" groups="pdk-fs" />
-  <project path="packages/apps/Gallery2" name="LineageOS/android_packages_apps_Gallery2" groups="pdk-fs" />
-  <project path="packages/apps/Gello" name="LineageOS/android_packages_apps_Gello" />
-  <project path="packages/apps/HTMLViewer" name="LineageOS/android_packages_apps_HTMLViewer" groups="pdk-fs" />
-  <project path="packages/apps/InCallUI" name="LineageOS/android_packages_apps_InCallUI" groups="pdk-fs" />
-  <project path="packages/apps/KeyChain" name="LineageOS/android_packages_apps_KeyChain" groups="pdk-fs" />
-  <project path="packages/apps/LockClock" name="LineageOS/android_packages_apps_LockClock" />
-  <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
-  <project path="packages/apps/Messaging" name="LineageOS/android_packages_apps_Messaging" groups="pdk-fs" />
-  <project path="packages/apps/Nfc" name="LineageOS/android_packages_apps_Nfc" groups="apps_nfc,pdk-fs" />
-  <project path="packages/apps/PackageInstaller" name="LineageOS/android_packages_apps_PackageInstaller" groups="pdk-fs" />
-  <project path="packages/apps/PhoneCommon" name="LineageOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
-  <project path="packages/apps/Provision" name="LineageOS/android_packages_apps_Provision" groups="pdk-fs" />
-  <project path="packages/apps/Screencast" name="LineageOS/android_packages_apps_Screencast" />
-  <project path="packages/apps/Settings" name="LineageOS/android_packages_apps_Settings" groups="pdk-fs" />
-  <project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
-  <project path="packages/apps/SmartCardService" name="LineageOS/android_packages_apps_SmartCardService" groups="pdk-fs" />
-  <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
-  <project path="packages/apps/SoundRecorder" name="LineageOS/android_packages_apps_SoundRecorder" groups="pdk-fs" />
-  <project path="packages/apps/Stk" name="LineageOS/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
-  <project path="packages/apps/Tag" name="LineageOS/android_packages_apps_Tag" groups="pdk-fs" />
-  <project path="packages/apps/Terminal" name="LineageOS/android_packages_apps_Terminal" groups="pdk-fs" />
-  <project path="packages/apps/ThemeChooser" name="LineageOS/android_packages_apps_ThemeChooser" />
-  <project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" />
-  <project path="packages/apps/TvSettings" name="LineageOS/android_packages_apps_TvSettings" groups="generic_fs" />
-  <project path="packages/apps/UnifiedEmail" name="LineageOS/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
-  <project path="packages/apps/WallpaperPicker" name="LineageOS/android_packages_apps_WallpaperPicker" />
-  <project path="packages/experimental" name="LineageOS/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="LineageOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" />
-  <project path="packages/providers/BookmarkProvider" name="LineageOS/android_packages_providers_BookmarkProvider" groups="pdk-fs" />
-  <project path="packages/providers/CalendarProvider" name="LineageOS/android_packages_providers_CalendarProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/providers/CallLogProvider" name="LineageOS/android_packages_providers_CallLogProvider" groups="pdk-fs" />
-  <project path="packages/providers/ContactsProvider" name="LineageOS/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/providers/DataUsageProvider" name="LineageOS/android_packages_providers_DataUsageProvider" />
-  <project path="packages/providers/DownloadProvider" name="LineageOS/android_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/providers/MediaProvider" name="LineageOS/android_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/providers/PartnerBookmarksProvider" name="LineageOS/android_packages_providers_PartnerBookmarksProvider" groups="pdk-fs" />
-  <project path="packages/providers/TelephonyProvider" name="LineageOS/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/providers/ThemesProvider" name="LineageOS/android_packages_providers_ThemesProvider" />
-  <project path="packages/providers/TvProvider" name="LineageOS/android_packages_providers_TvProvider" groups="pdk-fs" />
-  <project path="packages/providers/UserDictionaryProvider" name="LineageOS/android_packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/providers/WeatherProvider" name="LineageOS/android_packages_providers_WeatherProvider" />
-  <project path="packages/screensavers/Basic" name="LineageOS/android_packages_screensavers_Basic" groups="pdk-fs" />
-  <project path="packages/screensavers/PhotoTable" name="LineageOS/android_packages_screensavers_PhotoTable" groups="pdk-fs" />
-  <project path="packages/screensavers/WebView" name="LineageOS/android_packages_screensavers_WebView" groups="pdk-fs" />
-  <project path="packages/services/CMAudioService" name="LineageOS/android_packages_services_CMAudioService" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/LiveLockScreenService" name="LineageOS/android_packages_services_LiveLockScreenService" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/Mms" name="LineageOS/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/Telecomm" name="LineageOS/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/Telephony" name="LineageOS/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/ThemeManagerService" name="LineageOS/android_packages_services_ThemeManagerService" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/services/WeatherService" name="LineageOS/android_packages_services_WeatherService" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/themes/HexoLibre" name="LineageOS/android_packages_themes_HexoLibre" groups="themes" />
-  <project path="packages/wallpapers/Basic" name="LineageOS/android_packages_wallpapers_Basic" groups="pdk-fs" />
-  <project path="packages/wallpapers/Galaxy4" name="LineageOS/android_packages_wallpapers_Galaxy4" groups="pdk-fs" />
-  <project path="packages/wallpapers/HoloSpiral" name="LineageOS/android_packages_wallpapers_HoloSpiral" groups="pdk-fs" />
-  <project path="packages/wallpapers/LivePicker" name="LineageOS/android_packages_wallpapers_LivePicker" groups="pdk-fs" />
-  <project path="packages/wallpapers/MagicSmoke" name="LineageOS/android_packages_wallpapers_MagicSmoke" groups="pdk-fs" />
-  <project path="packages/wallpapers/NoiseField" name="LineageOS/android_packages_wallpapers_NoiseField" groups="pdk-fs" />
-  <project path="packages/wallpapers/PhaseBeam" name="LineageOS/android_packages_wallpapers_PhaseBeam" groups="pdk-fs" />
-  <project path="packages/wallpapers/PhotoPhase" name="LineageOS/android_packages_wallpapers_PhotoPhase" />
   <project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" clone-depth="1" revision="master" />
   <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" />
   <project path="system/core" name="LineageOS/android_system_core" groups="pdk" />
@@ -280,34 +141,10 @@
   <project path="external/slf4j" name="platform/external/slf4j" groups="pdk-fs" remote="aosp" />
   <project path="external/sonic" name="platform/external/sonic" groups="pdk" remote="aosp" />
   <project path="external/squashfs-tools" name="platform/external/squashfs-tools" groups="pdk" remote="aosp" />
-  <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot" remote="aosp" />
-  <project path="external/vixl" name="platform/external/vixl" groups="pdk" remote="aosp" />
-  <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" remote="aosp" />
-  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" />
-  <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/inputconnectioncommon" name="platform/frameworks/opt/inputconnectioncommon" groups="pdk-fs" remote="aosp" />
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" remote="aosp" />
-  <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel" remote="aosp" />
-  <project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" groups="intel" remote="aosp" />
-  <project path="hardware/intel/common/libstagefrighthw" name="platform/hardware/intel/common/libstagefrighthw" groups="intel" remote="aosp"/>
-  <project path="hardware/intel/common/utils" name="platform/hardware/intel/common/utils" groups="intel" remote="aosp" />
-  <project path="hardware/intel/common/wrs_omxil_core" name="platform/hardware/intel/common/wrs_omxil_core" groups="intel" remote="aosp" />
-  <project path="hardware/intel/sensors" name="platform/hardware/intel/sensors" groups="intel_sensors" remote="aosp" />
-  <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt" remote="aosp" />
-  <project path="hardware/mediatek" name="platform/hardware/mediatek" groups="mediatek,mediatek_wear" remote="aosp" />
-  <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />
-  <project path="hardware/qcom/msm8994" name="platform/hardware/qcom/msm8994" groups="qcom_msm8994" remote="aosp" />
-  <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" remote="aosp" />
-  <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" />
-  <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="pdk,qcom_msm8x74" remote="aosp" />
-  <project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" groups="qcom_msm8x84" remote="aosp" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" remote="aosp" />
-  <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" remote="aosp" />
+  
   <project path="ndk" name="platform/ndk" groups="generic_fs" remote="aosp" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
